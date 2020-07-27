@@ -6,7 +6,7 @@ output = " "
 
 # Loop word and write logic
 for letter in name:
-    a_value = ord(letter) + 1
+    a_value = ord(letter) + 13
     if a_value > 90:
         a_value -= 26
     
