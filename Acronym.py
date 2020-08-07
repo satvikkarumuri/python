@@ -7,6 +7,6 @@ for word in words:
     abb.append(letter)
 
 
-add=''.join(abb)
+add = ''.join(abb)
 print(add)
 
